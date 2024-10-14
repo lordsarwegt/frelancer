@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Documents/Proyecto"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "freelancer_inicio"
+	}
+}
